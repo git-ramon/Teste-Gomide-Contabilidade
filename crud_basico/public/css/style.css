@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+.container-fluid {
+    display: initial !important;
+}
+
+button a {
+    color: #0d6efd;
+    text-decoration: none;
+    color: white;
+}
+
+.msg{
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+.msg-erro{
+    background-color: #f8d7da;
+    color: #842029;
+    border-color: #f5c2c7;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;  
+}
+
+.pagination {
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none !important;
+}
